@@ -1,0 +1,11 @@
+[
+  {
+    "question": "What is Python?",
+    "keywords": ["programming language", "interpreted", "high level", "easy syntax"]
+  },
+  {
+    "question": "What is a list in Python?",
+    "keywords": ["ordered", "mutable", "collection", "elements"]
+  }
+  
+]

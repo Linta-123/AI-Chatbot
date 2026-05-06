@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Tell me about yourself",
+    "keywords": ["name", "education", "skills", "project", "career goal"]
+  },
+  {
+    "question": "Why should we hire you?",
+    "keywords": ["skills", "hardworking", "teamwork", "quick learner", "contribution"]
+  }
+]

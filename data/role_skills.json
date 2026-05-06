@@ -1,0 +1,5 @@
+{
+  "Python Developer": ["Python", "OOP", "SQL", "Flask", "API", "Pandas"],
+  "Java Developer": ["Java", "OOP", "Spring Boot", "MySQL", "JDBC", "REST API"],
+  "HR": ["Communication", "Confidence", "Leadership", "Teamwork"]
+}

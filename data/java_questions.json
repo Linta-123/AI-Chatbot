@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is OOP?",
+    "keywords": ["object", "class", "encapsulation", "inheritance", "polymorphism", "abstraction"]
+  },
+  {
+    "question": "What is inheritance in Java?",
+    "keywords": ["parent", "child", "extends", "reusability"]
+  }
+]
